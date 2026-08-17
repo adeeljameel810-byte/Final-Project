@@ -4,7 +4,7 @@ This application allows users to Add, Update, Delete, and Navigate student recor
 
 🧭 Project Overview
 ┌────────────────────────────────────────────┐
-│  A simple desktop tool to manage student   │
+│  A simple Desktop tool to manage student   │
 │  records efficiently with clean user       │
 │  interaction and smooth navigation.        │
 └────────────────────────────────────────────┘
@@ -26,7 +26,7 @@ Each student entry includes:
 • Name
 • Roll Number
 • Father’s Name
-• Caste
+• Cast
 • District
 • GPA
 
