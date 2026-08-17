@@ -10,11 +10,11 @@ This application allows users to Add, Update, Delete, and Navigate student recor
 └────────────────────────────────────────────┘
 
 The system provides:
-✔ A clean form for student details
-✔ Text/CSV file storage
-✔ Navigation through records
-✔ Editing & deleting functionality
-✔ Buttons that enable/disable intelligently
+✔ A clean form for student details.
+✔ Text/CSV file storage.
+✔ Navigation through records.
+✔ Editing & deleting functionality.
+✔ Buttons that enable/disable intelligently.
 
 🧩 Features
 ╔══════════════════════════════════════════╗
